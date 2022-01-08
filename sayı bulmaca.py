@@ -21,8 +21,8 @@ while True:
                 print("Program bitirildi")
                 break
             else:
-                print("1 e veya 2 ye basmalısın,Program yeeniden başlatılıyor")
+                print("1'e veya 2'ye basmalısın,Program yeniden başlatılıyor")
                 continue
         except ValueError:
-            print("1 e veya 2 ye basmalısın, Program yeniden başlatılıyor")
+            print("1'e veya 2'ye basmalısın, Program yeniden başlatılıyor")
             continue
